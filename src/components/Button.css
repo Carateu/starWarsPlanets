@@ -1,0 +1,12 @@
+.button{
+    height: 3em;
+    width: 7em;
+    background-color: #F3EFE0;
+    color: #217C7E;
+    border-color: #217C7E;
+
+}
+
+.button:hover{
+    background-color: blanchedalmond;
+}

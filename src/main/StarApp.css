@@ -1,0 +1,32 @@
+div{
+    background-color:  #F3EFE0;
+    width: 400px;
+}
+
+
+
+.div3{
+    height: 70px;
+    text-align: center;
+    text-justify: auto;
+    font-size: xx-large;
+    font-weight: 800;
+    color:#F3EFE0 ;
+    background-color:#217C7E ;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+li{
+    font-size: x-large;
+    margin:30px;
+    color: 	#217C7E;
+}
+
+p{
+    font-size: x-large;
+    color: 	#217C7E;
+}

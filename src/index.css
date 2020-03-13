@@ -1,0 +1,27 @@
+@font-face{
+  font-family:'Baloo Bhai 2', cursive;
+  src: url('./fontes/BalooBhai2-ExtraBold.ttf')
+}
+
+* {
+  font-family: 'Baloo Bhai','monospace';
+}
+
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color:black;
+  background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364)
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
